@@ -1,0 +1,14 @@
+digraph G { graph [rankdir=LR];
+
+	subgraph cluster_c1 {S11  S12  S13 } 
+	subgraph cluster_c2 {S21  S23}
+	subgraph cluster_c3 {S31  S32  S33 }
+	subgraph cluster_c4 {S41 }
+	
+	
+	S11 -> S21;
+	S21 -> S32;
+	S33-> S41
+
+}
+  

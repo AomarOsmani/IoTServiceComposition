@@ -1,0 +1,246 @@
+\begin{thebibliography}{}
+
+\bibitem[Alagoz et~al., 2009]{timeMDP}
+Alagoz, O., Hsu, H., Schaefer, A.~J., and Roberts, M.~S. (2009).
+\newblock Markov decision processes: A tool for sequential decision making
+  under uncertainty.
+\newblock {\em Medical Decision Making}, 30(4):474--483.
+
+\bibitem[Alizadeh et~al., 2016]{alizadeh:hal-01358345}
+Alizadeh, P., Chevaleyre, Y., and L{\'e}vy, F. (2016).
+\newblock {Advantage Based Value Iteration for Markov Decision Processes with
+  Unknown Rewards}.
+\newblock In {\em {International Joint Conference on Neural Networks (IJCNN
+  2016)}}, Vancouver, Canada.
+
+\bibitem[Alrifai et~al., 2010]{Alrifai:2010}
+Alrifai, M., Skoutas, D., and Risse, T. (2010).
+\newblock Selecting skyline services for qos-based web service composition.
+\newblock In {\em Proceedings of the 19th International Conference on World
+  Wide Web}, WWW '10, pages 11--20. ACM.
+
+\bibitem[ARASI et~al., 2017]{ARASI2017}
+ARASI, F. E.~M., GOVINDARAJAN, S., and SUBBARAYAN, A. (2017).
+\newblock Weighted quality of service based ranking of web services.
+\newblock In {\em Indian Journal of Science and Technology}.
+
+\bibitem[Balzer, 2004]{Balzer2004}
+Balzer, Y. (July 16, 2004).
+\newblock Improve your soa project plans.
+
+\bibitem[Ben~Mabrouk et~al., 2009]{BenMabrouk2009}
+Ben~Mabrouk, N., Beauche, S., Kuznetsova, E., Georgantas, N., and Issarny, V.
+  (2009).
+\newblock {\em QoS-Aware Service Composition in Dynamic Service Oriented
+  Environments}, pages 123--142.
+\newblock Springer Berlin Heidelberg.
+
+\bibitem[Booth et~al., 2004]{W3C2004}
+Booth, D., Haas, H., McCabe, F., Newcomer, E., Champion, M., Ferris, C., and
+  Orchard, D. (2004).
+\newblock Web services architecture.
+
+\bibitem[Chandra et~al., 2016]{Chandra2016}
+Chandra, M., Agrawal, A., Kishor, A., and Niyogi, R. (2016).
+\newblock Web service selection with global constraints using modified gray
+  wolf optimizer.
+\newblock In {\em 2016 International Conference on Advances in Computing,
+  Communications and Informatics (ICACCI)}, pages 1989--1994.
+
+\bibitem[Chen et~al., 2017]{chen2017}
+Chen, N., Cardozo, N., and Clarke, S. (2017).
+\newblock Goal-driven service composition in mobile and pervasive computing.
+\newblock {\em IEEE Transactions on Services Computing}, PP(99):1--1.
+
+\bibitem[Christensen et~al., 2001]{christensen2001}
+Christensen, E., Curbera, F., Meredith, G., Weerawarana, S., et~al. (2001).
+\newblock Web services description language (wsdl) 1.1.
+
+\bibitem[Cibraro et~al., 2010]{Cibraro2010}
+Cibraro, P., Claeys, K., Cozzolino, F., and Grabner, J. (June 15, 2010).
+\newblock {\em Professional WCF 4: Windows Communication Foundation with .NET
+  4}.
+\newblock Wrox.
+
+\bibitem[Deng et~al., 2016a]{Deng2016m}
+Deng, S., Huang, L., Hu, D., Zhao, J.~L., and Wu, Z. (2016a).
+\newblock Mobility-enabled service selection for composite services.
+\newblock {\em {IEEE} Trans. Services Computing}, 9:394--407.
+
+\bibitem[Deng et~al., 2017]{Deng2017}
+Deng, S., Huang, L., Taheri, J., Yin, J., Zhou, M., and Zomaya, A.~Y. (2017).
+\newblock Mobility-aware service composition in mobile communities.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics: Systems},
+  47(3):555--568.
+
+\bibitem[Deng et~al., 2014]{deng2014}
+Deng, S., Huang, L., Tan, W., and Wu, Z. (2014).
+\newblock Top-${\rm k}$ automatic service composition: A parallel method for
+  large-scale service sets.
+\newblock {\em IEEE Transactions on Automation Science and Engineering},
+  11:891--905.
+
+\bibitem[Deng et~al., 2016b]{Deng2016s}
+Deng, S., Wu, H., Hu, D., Zhao, J.~L., undefined, undefined, undefined, and
+  undefined (2016b).
+\newblock Service selection for composition with qos correlations.
+\newblock {\em IEEE Transactions on Services Computing}, 9:291--303.
+
+\bibitem[Deng et~al., 2016c]{Deng2016c}
+Deng, S., Wu, H., Taheri, J., Zomaya, A.~Y., and Wu, Z. (2016c).
+\newblock Cost performance driven service mashup: A developer perspective.
+\newblock {\em IEEE Transactions on Parallel and Distributed Systems},
+  27:2234--2247.
+
+\bibitem[Facebook, 2007]{Apachetrift2007}
+Facebook (2007).
+\newblock Apache trift tm.
+
+\bibitem[Gabrel et~al., 2015]{GABREL2015}
+Gabrel, V., Manouvrier, M., and Murat, C. (2015).
+\newblock Web services composition: Complexity and models.
+\newblock {\em Discrete Applied Mathematics}, 196(Supplement C):100 -- 114.
+
+\bibitem[Jiang et~al., 2014]{jiang2014}
+Jiang, W., Hu, S., and Liu, Z. (2014).
+\newblock Top k query for qos-aware automatic service composition.
+\newblock {\em IEEE Transactions on Services Computing}, 7(4):681--695.
+
+\bibitem[Khanouche et~al., 2017]{Essaid2017}
+Khanouche, M.~E., Attal, F., Amirat, Y., Chibani, A., and Kerkar, M. (2017).
+\newblock Qos-aware services composition based on clustering technique for
+  ambient intelligence.
+\newblock {\em IEEE Transactions on Automation Science ans Engineering}, 16.
+
+\bibitem[Liu, 2005]{Liu2005}
+Liu, W. (2005).
+\newblock Trustworthy service selection and composition - reducing the entropy
+  of service-oriented web.
+\newblock In {\em INDIN 2005. 2005 3rd IEEE International Conference on
+  Industrial Informatics, 2005.}, pages 104--109.
+
+\bibitem[Liu et~al., 2009]{liu2009}
+Liu, Z., Liu, T., Cai, L., and Yang, G. (2009).
+\newblock A novel web service selection based on dynamic quality evaluation.
+\newblock In {\em 2009 International Conference on Computational Intelligence
+  and Software Engineering}, pages 1--6.
+
+\bibitem[Manikrao and Prabhakar, 2005]{Manikrao2005}
+Manikrao, U.~S. and Prabhakar, T.~V. (2005).
+\newblock Dynamic selection of web services with recommendation system.
+\newblock In {\em International Conference on Next Generation Web Services
+  Practices (NWeSP'05)}, pages 5 pp.--.
+
+\bibitem[Mostafa and Zhang, 2015]{Mostafa2015}
+Mostafa, A. and Zhang, M. (2015).
+\newblock Multi-objective service composition in uncertain environments.
+\newblock {\em IEEE Transactions on Services Computing}, (99).
+
+\bibitem[Papazoglou et~al., 2007]{Papazoglou2007b}
+Papazoglou, M.~P., Traverso, P., Dustdar, S., and Leymann, F. (2007).
+\newblock Service-oriented computing: State of the art and research challenges.
+\newblock {\em Computer}, pages 38--45.
+
+\bibitem[Papazoglou and van~den Heuvel, 2007]{Papazoglou2007a}
+Papazoglou, M.~P. and van~den Heuvel, W.-J. (2007).
+\newblock Service oriented architectures: approaches, technologies and research
+  issues.
+\newblock {\em The VLDB Journal}, 16(3):389--415.
+
+\bibitem[Pautasso, 2014]{Pautasso2014}
+Pautasso, C. (2014).
+\newblock Restful web services: Principles, patterns, emerging technologies.
+\newblock In {\em Web Services Foundations}, pages 31--51.
+
+\bibitem[Rao et~al., 2011]{Rao2011}
+Rao, R., Savsani, V., and Vakharia, D. (2011).
+\newblock Teaching–learning-based optimization: A novel method for
+  constrained mechanical design optimization problems.
+\newblock {\em Computer-Aided Design}, 43:303 -- 315.
+
+\bibitem[Rodriguez-Mier et~al., 2016]{Rodriguez2016}
+Rodriguez-Mier, P., Pedrinaci, C., Lama, M., and Mucientes, M. (2016).
+\newblock An integrated semantic web service discovery and composition
+  framework.
+\newblock {\em IEEE Transactions on Services Computing}, 9(4):537--550.
+
+\bibitem[Siebert et~al., 2015]{Siebert2015}
+Siebert, J., Cao, J., Lai, Y., Guo, P., and Zhu, W. (2015).
+\newblock Lasec: A localized approach to service composition in pervasive
+  computing environments.
+\newblock {\em IEEE Transactions on Parallel and Distributed Systems},
+  26(7):1948--1957.
+
+\bibitem[Song and Lee, 2013]{SONG2013}
+Song, S. and Lee, S.-W. (2013).
+\newblock A goal-driven approach for adaptive service composition using
+  planning.
+\newblock {\em Mathematical and Computer Modelling}, 58:261 -- 273.
+
+\bibitem[Stelmach, 2013]{stelmach2013}
+Stelmach, P. (2013).
+\newblock Service composition scenarios in the internet of things paradigm.
+\newblock In {\em Doctoral Conference on Computing, Electrical and Industrial
+  Systems}, pages 53--60. Springer.
+
+\bibitem[Valipour et~al., 2009]{Valipour2009}
+Valipour, M.~H., AmirZafari, B., Maleki, K.~N., and Daneshpour, N. (2009).
+\newblock A brief survey of software architecture concepts and service oriented
+  architecture.
+\newblock {\em 2nd IEEE International Conference on Computer Science and
+  Information Technology}, page 34–38.
+
+\bibitem[Wang et~al., 2017]{Wang2017}
+Wang, H., Ma, P., Yu, Q., Yang, D., Li, J., and Fei, H. (2017).
+\newblock Combining quantitative constraints with qualitative preferences for
+  effective non-functional properties-aware service composition.
+\newblock {\em Journal of Parallel and Distributed Computing}, 100:71--84.
+
+\bibitem[Wang et~al., 2010]{Wang2010}
+Wang, H., Zhou, X., Zhou, X., Liu, W., Li, W., and Bouguettaya, A. (2010).
+\newblock {\em Adaptive Service Composition Based on Reinforcement Learning},
+  pages 92--107.
+\newblock Springer Berlin Heidelberg.
+
+\bibitem[Wang et~al., 2011]{Wang2011}
+Wang, P., Chao, K.-M., Lo, C.-C., and Farmer, R. (2011).
+\newblock An evidence-based scheme for web service selection.
+\newblock {\em Information Technology and Management}, 12(2):161--172.
+
+\bibitem[Wang and Vassileva, 2007]{Wang2007}
+Wang, Y. and Vassileva, J. (2007).
+\newblock A review on trust and reputation for web service selection.
+\newblock In {\em Distributed Computing Systems Workshops}, pages 25--25.
+
+\bibitem[Weng and Zanuttini, 2013]{weng:hal-00942290}
+Weng, P. and Zanuttini, B. (2013).
+\newblock {Interactive Value Iteration for Markov Decision Processes with
+  Unknown Rewards}.
+\newblock In {\em {IJCAI '13 - Twenty-Third international joint conference on
+  Artificial Intelligence}}, pages 2415--2421, Beijing, China. {AAAI Press}.
+
+\bibitem[Wu et~al., 2016]{Wu2016}
+Wu, Q., Ishikawa, F., Zhu, Q., and Shin, D. (2016).
+\newblock Qos-aware multigranularity service composition: Modeling and
+  optimization.
+\newblock {\em {IEEE} Trans. Systems, Man, and Cybernetics: Systems},
+  46(11):1565--1577.
+
+\bibitem[Zhang et~al., 2016]{Zheng2015}
+Zhang, Y., Cui, G., Deng, S., and He, Q. (2016).
+\newblock Alliance-aware service composition based on quotient space.
+\newblock In {\em 2016 IEEE International Conference on Web Services (ICWS)},
+  pages 340--347.
+
+\bibitem[Zheng et~al., 2014]{Zheng2014}
+Zheng, Z., Zhang, Y., and Lyu, M.~R. (2014).
+\newblock Investigating qos of real-world web services.
+\newblock {\em IEEE Transactions on Services Computing}, 7(1):32--39.
+
+\bibitem[Zou et~al., 2014]{Zou2014}
+Zou, G., Lu, Q., Chen, Y., Huang, R., Xu, Y., and Xiang, Y. (2014).
+\newblock Qos-aware dynamic composition of web services using numerical
+  temporal planning.
+\newblock {\em IEEE Trans. Serv. Comput.}, 7(1):18--31.
+
+\end{thebibliography}

@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Related Works}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Recommender System based Approaches}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Machine Learning based Approaches}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Reinforcement Learning based Approaches}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Problem description}{}% 6
+\BOOKMARK [1][-]{section.4}{Motivation for the present study a-t-on de quoi remplir cette section?\)}{}% 7
+\BOOKMARK [1][-]{section.5}{Problem formulation}{}% 8
+\BOOKMARK [1][-]{section.6}{Problematic}{}% 9
+\BOOKMARK [1][-]{section.7}{Motivation}{}% 10
+\BOOKMARK [1][-]{section.8}{Problem Formulation}{}% 11
+\BOOKMARK [2][-]{subsection.8.1}{Vector-valued Markov Decision Process}{section.8}% 12
+\BOOKMARK [2][-]{subsection.8.2}{MDP for Service Compositions}{section.8}% 13
+\BOOKMARK [1][-]{section.9}{Interactive Reinforcement Learning Algorithms for the Service Compositions}{}% 14
+\BOOKMARK [1][-]{section.10}{Performance Evaluation}{}% 15
+\BOOKMARK [2][-]{subsection.10.1}{Model DataSet as MOMDP}{section.10}% 16
+\BOOKMARK [2][-]{subsection.10.2}{Classified Dataset}{section.10}% 17
+\BOOKMARK [2][-]{subsection.10.3}{Filtered Dataset}{section.10}% 18
